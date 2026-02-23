@@ -1,1 +1,0 @@
-# AI_brochure_Genertor
